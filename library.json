@@ -1,0 +1,1 @@
+{"name":"bearssl-esp8266","version":"0.6.0-espurna.1","description":"BearSSL (bearssl.org), the sources of the ESP8266 core's port, as a library for ESP32 and Beken (LibreTiny): the TLS engine of ESPurna's HTTP client","license":"MIT","frameworks":"arduino","platforms":"*","build":{"srcDir":"src","includeDir":"inc"}}
