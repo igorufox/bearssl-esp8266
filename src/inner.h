@@ -29,7 +29,7 @@
 #include <limits.h>
 #include <alloca.h>
 
-#include "pgmspace.h"
+#include "bearssl_pgmspace.h"
 
 #include "config.h"
 #include "bearssl.h"
