@@ -2,7 +2,7 @@
 
 #include <stddef.h>
 #include <stdint.h>
-#include <pgmspace.h>
+#include "bearssl_pgmspace.h"
 
 typedef struct {
 	uint32_t *dp;
